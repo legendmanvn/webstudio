@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/Community/Modules/Wiki/WikiUC/ListPages.ascx" hash="d9c701c66" filehash="ffffc62a858f5d91" flags="110000" assembly="Products.Community.Modules.Wiki.WikiUC" type="ASP.products_community_modules_wiki_wikiuc_listpages_ascx">
+  <filedeps>
+    <filedep name="/Products/Community/Modules/Wiki/WikiUC/ListPages.ascx" />
+  </filedeps>
+</preserve>

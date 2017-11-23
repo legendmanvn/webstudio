@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/CRM/Controls/Deals/DealFullCardView.ascx" hash="d9c701c66" filehash="1044f9a2b814" flags="110000" assembly="Products.CRM.Controls.Deals" type="ASP.products_crm_controls_deals_dealfullcardview_ascx">
+  <filedeps>
+    <filedep name="/Products/CRM/Controls/Deals/DealFullCardView.ascx" />
+  </filedeps>
+</preserve>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/Management/AccessRights/AccessRights.ascx" hash="d9c701c66" filehash="ffffe4435414cb4d" flags="110000" assembly="UserControls.Management.AccessRights" type="ASP.usercontrols_management_accessrights_accessrights_ascx">
+  <filedeps>
+    <filedep name="/UserControls/Management/AccessRights/AccessRights.ascx" />
+  </filedeps>
+</preserve>

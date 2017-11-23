@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/Files/FileChoice.aspx" hash="d9c701c66" filehash="30f87eaf8fd7b367" flags="110000" assembly="Products.Files" type="ASP.products_files_filechoice_aspx">
+  <filedeps>
+    <filedep name="/Masters/BaseTemplate.master" />
+    <filedep name="/Masters/BodyScripts.ascx" />
+    <filedep name="/Masters/CommonBodyScripts.ascx" />
+    <filedep name="/Masters/CommonStyles.ascx" />
+    <filedep name="/Masters/HeadScripts.ascx" />
+    <filedep name="/Masters/HeadStyles.ascx" />
+    <filedep name="/Masters/ThemeStyles.ascx" />
+    <filedep name="/Products/Files/FileChoice.aspx" />
+    <filedep name="/Products/Files/Masters/BasicTemplate.Master" />
+  </filedeps>
+</preserve>

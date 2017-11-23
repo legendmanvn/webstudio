@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/Common/ThirdPartyBanner/ThirdPartyBanner.ascx" hash="d9c701c66" filehash="ffffc085108c5de8" flags="110000" assembly="UserControls.Common.ThirdPartyBanner" type="ASP.usercontrols_common_thirdpartybanner_thirdpartybanner_ascx">
+  <filedeps>
+    <filedep name="/UserControls/Common/ThirdPartyBanner/ThirdPartyBanner.ascx" />
+  </filedeps>
+</preserve>

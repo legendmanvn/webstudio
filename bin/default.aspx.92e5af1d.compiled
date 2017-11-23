@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/Community/Modules/News/default.aspx" hash="d9c701c66" filehash="fabf77efd0700a75" flags="110000" assembly="Products.Community.Modules.News" type="ASP.products_community_modules_news_default_aspx">
+  <filedeps>
+    <filedep name="/Masters/BaseTemplate.master" />
+    <filedep name="/Masters/BodyScripts.ascx" />
+    <filedep name="/Masters/CommonBodyScripts.ascx" />
+    <filedep name="/Masters/CommonStyles.ascx" />
+    <filedep name="/Masters/HeadScripts.ascx" />
+    <filedep name="/Masters/HeadStyles.ascx" />
+    <filedep name="/Masters/ThemeStyles.ascx" />
+    <filedep name="/Products/Community/Master/Community.Master" />
+    <filedep name="/Products/Community/Modules/News/Controls/FeedItem.ascx" />
+    <filedep name="/Products/Community/Modules/News/Controls/FeedView.ascx" />
+    <filedep name="/Products/Community/Modules/News/default.aspx" />
+    <filedep name="/Products/Community/Modules/News/news.Master" />
+  </filedeps>
+</preserve>

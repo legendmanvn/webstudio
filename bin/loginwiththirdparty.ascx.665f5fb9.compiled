@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/Common/LoginWithThirdParty.ascx" hash="d9c701c66" filehash="ffffd0164bc2d7db" flags="110000" assembly="UserControls.Common" type="ASP.usercontrols_common_loginwiththirdparty_ascx">
+  <filedeps>
+    <filedep name="/UserControls/Common/LoginWithThirdParty.ascx" />
+  </filedeps>
+</preserve>

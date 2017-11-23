@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/CRM/Controls/Contacts/ListContactView.ascx" hash="d9c701c66" filehash="38419afd5238" flags="110000" assembly="Products.CRM.Controls.Contacts" type="ASP.products_crm_controls_contacts_listcontactview_ascx">
+  <filedeps>
+    <filedep name="/Products/CRM/Controls/Contacts/ListContactView.ascx" />
+  </filedeps>
+</preserve>

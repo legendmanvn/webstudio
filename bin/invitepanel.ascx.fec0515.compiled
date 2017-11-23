@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/Management/InvitePanel/InvitePanel.ascx" hash="d9c701c66" filehash="15b1cceda2ab" flags="110000" assembly="UserControls.Management.InvitePanel" type="ASP.usercontrols_management_invitepanel_invitepanel_ascx">
+  <filedeps>
+    <filedep name="/UserControls/Management/InvitePanel/InvitePanel.ascx" />
+  </filedeps>
+</preserve>

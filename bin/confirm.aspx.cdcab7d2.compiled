@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/confirm.aspx" hash="d9c701c66" filehash="a5ef989d9392db37" flags="110000" assembly="Root" type="ASP.confirm_aspx">
+  <filedeps>
+    <filedep name="/confirm.aspx" />
+    <filedep name="/Masters/BaseTemplate.master" />
+    <filedep name="/Masters/BodyScripts.ascx" />
+    <filedep name="/Masters/CommonBodyScripts.ascx" />
+    <filedep name="/Masters/CommonStyles.ascx" />
+    <filedep name="/Masters/HeadScripts.ascx" />
+    <filedep name="/Masters/HeadStyles.ascx" />
+    <filedep name="/Masters/ThemeStyles.ascx" />
+  </filedeps>
+</preserve>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Services/WhatsNew/feed.ashx" hash="ffffffff95c1868b" filehash="ffffd7104ff0d6ee" flags="130000" assembly="ASC.Web.Studio" type="ASC.Web.Studio.Services.WhatsNew.feed">
+  <filedeps>
+    <filedep name="/Services/WhatsNew/feed.ashx" />
+  </filedeps>
+</preserve>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/Common/ThirdPartyScripts/WizardScript.ascx" hash="d9c701c66" filehash="312c59e75482" flags="110000" assembly="UserControls.Common.ThirdPartyScripts" type="ASP.usercontrols_common_thirdpartyscripts_wizardscript_ascx">
+  <filedeps>
+    <filedep name="/UserControls/Common/ThirdPartyScripts/WizardScript.ascx" />
+  </filedeps>
+</preserve>

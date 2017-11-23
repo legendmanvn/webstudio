@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/ThirdParty/ImportContacts/Yahoo.aspx" hash="d9c701c66" filehash="8fc9362f4f8ad302" flags="110000" assembly="ThirdParty.ImportContacts" type="ASP.thirdparty_importcontacts_yahoo_aspx">
+  <filedeps>
+    <filedep name="/ThirdParty/ImportContacts/ImportLogin.Master" />
+    <filedep name="/ThirdParty/ImportContacts/Yahoo.aspx" />
+  </filedeps>
+</preserve>

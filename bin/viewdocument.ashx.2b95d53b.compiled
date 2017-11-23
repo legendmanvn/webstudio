@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/addons/mail/HttpHandlers/ViewDocument.ashx" hash="ffffffff95c1868b" filehash="4240afe809bc" flags="130000" assembly="ASC.Web.Mail" type="ASC.Web.Mail.HttpHandlers.ViewDocumentHandler">
+  <filedeps>
+    <filedep name="/addons/mail/HttpHandlers/ViewDocument.ashx" />
+  </filedeps>
+</preserve>

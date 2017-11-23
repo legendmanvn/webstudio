@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/Management/LoginHistory/LoginHistory.ascx" hash="d9c701c66" filehash="ffffc85b93f8a354" flags="110000" assembly="UserControls.Management.LoginHistory" type="ASP.usercontrols_management_loginhistory_loginhistory_ascx">
+  <filedeps>
+    <filedep name="/UserControls/Management/LoginHistory/LoginHistory.ascx" />
+  </filedeps>
+</preserve>

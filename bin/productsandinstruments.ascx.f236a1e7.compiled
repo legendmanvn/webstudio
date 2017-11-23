@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/Management/ProductsAndInstruments/ProductsAndInstruments.ascx" hash="d9c701c66" filehash="241e2746db6a" flags="110000" assembly="UserControls.Management.ProductsAndInstruments" type="ASP.usercontrols_management_productsandinstruments_productsandinstruments_ascx">
+  <filedeps>
+    <filedep name="/UserControls/Management/ProductsAndInstruments/ProductsAndInstruments.ascx" />
+  </filedeps>
+</preserve>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/Common/ThirdPartyScripts/GoogleAnalyticsScript.ascx" hash="d9c701c66" filehash="17ee5064c33d" flags="110000" assembly="UserControls.Common.ThirdPartyScripts" type="ASP.usercontrols_common_thirdpartyscripts_googleanalyticsscript_ascx">
+  <filedeps>
+    <filedep name="/UserControls/Common/ThirdPartyScripts/GoogleAnalyticsScript.ascx" />
+  </filedeps>
+</preserve>

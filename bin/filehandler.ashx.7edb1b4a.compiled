@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Products/Files/HttpHandlers/filehandler.ashx" hash="ffffffff95c1868b" filehash="ffffe5d019a21c76" flags="130000" assembly="ASC.Web.Files" type="ASC.Web.Files.FileHandler">
+  <filedeps>
+    <filedep name="/Products/Files/HttpHandlers/filehandler.ashx" />
+  </filedeps>
+</preserve>

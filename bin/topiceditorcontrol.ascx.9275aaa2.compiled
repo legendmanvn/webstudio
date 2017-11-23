@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/Community/Modules/Forum/UserControls/TopicEditorControl.ascx" hash="d9c701c66" filehash="57a31479ec6" flags="110000" assembly="Products.Community.Modules.Forum.UserControls" type="ASP.products_community_modules_forum_usercontrols_topiceditorcontrol_ascx">
+  <filedeps>
+    <filedep name="/Products/Community/Modules/Forum/UserControls/TopicEditorControl.ascx" />
+  </filedeps>
+</preserve>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/Management/TariffSettings/TariffLimitExceed.ascx" hash="d9c701c66" filehash="c3d60f364b" flags="110000" assembly="UserControls.Management.TariffSettings" type="ASP.usercontrols_management_tariffsettings_tarifflimitexceed_ascx">
+  <filedeps>
+    <filedep name="/UserControls/Management/TariffSettings/TariffLimitExceed.ascx" />
+  </filedeps>
+</preserve>

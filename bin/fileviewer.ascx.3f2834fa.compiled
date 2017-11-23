@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/Files/Controls/FileViewer/FileViewer.ascx" hash="d9c701c66" filehash="42acb0a8d1c0" flags="110000" assembly="Products.Files.Controls.FileViewer" type="ASP.products_files_controls_fileviewer_fileviewer_ascx">
+  <filedeps>
+    <filedep name="/Products/Files/Controls/FileViewer/FileViewer.ascx" />
+  </filedeps>
+</preserve>

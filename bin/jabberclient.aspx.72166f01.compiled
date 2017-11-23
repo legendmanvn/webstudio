@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/addons/talk/JabberClient.aspx" hash="d9c701c66" filehash="6d671bbc9e259dc3" flags="110000" assembly="addons.talk" type="ASP.addons_talk_jabberclient_aspx">
+  <filedeps>
+    <filedep name="/addons/talk/JabberClient.aspx" />
+    <filedep name="/addons/talk/UserControls/ContactsContainer.ascx" />
+    <filedep name="/addons/talk/UserControls/MeseditorContainer.ascx" />
+    <filedep name="/addons/talk/UserControls/RoomsContainer.ascx" />
+    <filedep name="/addons/talk/UserControls/TabsContainerPart.ascx" />
+    <filedep name="/Masters/BaseTemplate.master" />
+    <filedep name="/Masters/BodyScripts.ascx" />
+    <filedep name="/Masters/CommonBodyScripts.ascx" />
+    <filedep name="/Masters/CommonStyles.ascx" />
+    <filedep name="/Masters/HeadScripts.ascx" />
+    <filedep name="/Masters/HeadStyles.ascx" />
+    <filedep name="/Masters/ThemeStyles.ascx" />
+  </filedeps>
+</preserve>

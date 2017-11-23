@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/Management/FullTextSearch/FullTextSearch.ascx" hash="d9c701c66" filehash="3f48cb3ba287" flags="110000" assembly="UserControls.Management.FullTextSearch" type="ASP.usercontrols_management_fulltextsearch_fulltextsearch_ascx">
+  <filedeps>
+    <filedep name="/UserControls/Management/FullTextSearch/FullTextSearch.ascx" />
+  </filedeps>
+</preserve>

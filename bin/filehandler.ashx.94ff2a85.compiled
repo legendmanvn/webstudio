@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Products/CRM/HttpHandlers/filehandler.ashx" hash="ffffffff95c1868b" filehash="fffffc9f4df0db87" flags="130000" assembly="ASC.Web.CRM" type="ASC.Web.CRM.HttpHandlers.FileHandler">
+  <filedeps>
+    <filedep name="/Products/CRM/HttpHandlers/filehandler.ashx" />
+  </filedeps>
+</preserve>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/Files/Controls/ChunkUploadDialog/ChunkUploadDialog.ascx" hash="d9c701c66" filehash="ffffd970963b20eb" flags="110000" assembly="Products.Files.Controls.ChunkUploadDialog" type="ASP.products_files_controls_chunkuploaddialog_chunkuploaddialog_ascx">
+  <filedeps>
+    <filedep name="/Products/Files/Controls/ChunkUploadDialog/ChunkUploadDialog.ascx" />
+  </filedeps>
+</preserve>

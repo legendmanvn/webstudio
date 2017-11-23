@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/Community/Controls/NavigationSidePanel.ascx" hash="d9c701c66" filehash="33a0def15194" flags="110000" assembly="Products.Community.Controls" type="ASP.products_community_controls_navigationsidepanel_ascx">
+  <filedeps>
+    <filedep name="/Products/Community/Controls/NavigationSidePanel.ascx" />
+  </filedeps>
+</preserve>

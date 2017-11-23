@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/Statistics/ProductQuotes/ProductQuotes.ascx" hash="d9c701c66" filehash="370a9a9d72c7" flags="110000" assembly="UserControls.Statistics.ProductQuotes" type="ASP.usercontrols_statistics_productquotes_productquotes_ascx">
+  <filedeps>
+    <filedep name="/UserControls/Statistics/ProductQuotes/ProductQuotes.ascx" />
+  </filedeps>
+</preserve>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/addons/talk/Default.aspx" hash="d9c701c66" filehash="442682ad09df3cfb" flags="110000" assembly="addons.talk" type="ASP.addons_talk_default_aspx">
+  <filedeps>
+    <filedep name="/addons/talk/Default.aspx" />
+    <filedep name="/Masters/BaseTemplate.master" />
+    <filedep name="/Masters/BodyScripts.ascx" />
+    <filedep name="/Masters/CommonBodyScripts.ascx" />
+    <filedep name="/Masters/CommonStyles.ascx" />
+    <filedep name="/Masters/HeadScripts.ascx" />
+    <filedep name="/Masters/HeadStyles.ascx" />
+    <filedep name="/Masters/ThemeStyles.ascx" />
+  </filedeps>
+</preserve>

@@ -1,0 +1,192 @@
+/*
+ *
+ * (c) Copyright Ascensio System Limited 2010-2016
+ *
+ * This program is freeware. You can redistribute it and/or modify it under the terms of the GNU 
+ * General Public License (GPL) version 3 as published by the Free Software Foundation (https://www.gnu.org/copyleft/gpl.html). 
+ * In accordance with Section 7(a) of the GNU GPL its Section 15 shall be amended to the effect that 
+ * Ascensio System SIA expressly excludes the warranty of non-infringement of any third-party rights.
+ *
+ * THIS PROGRAM IS DISTRIBUTED WITHOUT ANY WARRANTY; WITHOUT EVEN THE IMPLIED WARRANTY OF MERCHANTABILITY OR
+ * FITNESS FOR A PARTICULAR PURPOSE. For more details, see GNU GPL at https://www.gnu.org/copyleft/gpl.html
+ *
+ * You can contact Ascensio System SIA by email at sales@onlyoffice.com
+ *
+ * The interactive user interfaces in modified source and object code versions of ONLYOFFICE must display 
+ * Appropriate Legal Notices, as required under Section 5 of the GNU GPL version 3.
+ *
+ * Pursuant to Section 7 § 3(b) of the GNU GPL you must retain the original ONLYOFFICE logo which contains 
+ * relevant author attributions when distributing the software. If the display of the logo in its graphic 
+ * form is not reasonably feasible for technical reasons, you must include the words "Powered by ONLYOFFICE" 
+ * in every copy of the program you distribute. 
+ * Pursuant to Section 7 § 3(e) we decline to grant you any rights under trademark law for use of our trademarks.
+ *
+*/
+
+
+@imagepathlink:'/usercontrols/users/userprofile/css/images/';
+
+.invite {
+    padding-top:10px;
+}
+
+.account-links {
+    text-align: left;
+
+    ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        display: inline-block;
+    }
+
+    .label {
+        display: none;
+    }
+
+    li {
+        vertical-align: middle;
+        height: 35px;
+        line-height: 35px;
+        padding-left: 40px;
+        background-position: -40px 0;
+        background-repeat: no-repeat;
+        background-image: url('@{imagepathlink}acc_social.png');
+
+        &.facebook {
+            background-position: 0 1px;
+        }
+
+        &.linkedin {
+            background-position: 0 -66px;
+        }
+
+        &.google {
+            background-position: 0 -33px;
+        }
+
+        &.twitter {
+            background-position: 0 -99px;
+        }
+
+        a {
+            margin: 5px;
+        }
+    }
+}
+
+/* ------------------ */
+#social .account-links {
+    text-align: center;
+    display: block;
+
+    .info {
+        float: left;
+        height: 24px;
+        line-height: 24px;
+        vertical-align: middle;
+        text-align: right;
+        width: 50%;
+    }
+
+    ul {
+        padding: 0;
+        list-style: none;
+        display: inline-block;
+        margin: 0;
+        text-align: left;
+    }
+
+    li {
+        height: 24px;
+        line-height: 24px;
+        padding-left: 0;
+        float: left;
+        background-image: none;
+
+        a {
+            display: block;
+            width: 24px;
+            height: 24px;
+            margin: 0 0 0 6px;
+            text-indent: -10000px;
+            position: relative;
+            background-image: url('@{imagepathlink}acc_social_small.png');
+            background-repeat: no-repeat;
+
+            span.linked {
+                display: block;
+                position: absolute;
+                width: 16px;
+                height: 16px;
+                background: url('@{imagepathlink}acc_linked.png');
+                bottom: 0;
+                right: 0;
+            }
+        }
+
+
+
+        .facebook {
+            background-position: 0 0;
+        }
+
+        .linkedin {
+            background-position: -50px 0;
+        }
+
+        .google {
+            background-position: -25px 0;
+        }
+
+        .twitter {
+            background-position: -75px 0;
+        }
+    }
+}
+
+/******************************************\
+    Login with ThirdParty
+\******************************************/
+.login-with-label {
+    margin: 10px 0;
+    color: #FFFFFF;
+    font-size: 16px;
+}
+.social-login {
+    .account-links li {
+        float: left;
+        height: 118px;
+        line-height: 118px;
+        padding-left: 0;
+
+        a {
+            background-color: transparent;
+            background-position: 0 0;
+            background-repeat: no-repeat;
+            display: block;
+            height: 118px;
+            margin: 0 5px;
+            outline: medium none;
+            position: relative;
+            text-indent: -10000px;
+            width: 118px;
+        }
+    }
+
+    li .facebook {
+        background: url("@{imagepathlink}facebook-button.png");
+    }
+
+    li .linkedin {
+        background: url("@{imagepathlink}linkedin-button.png");
+    }
+
+    li .google {
+        background: url("@{imagepathlink}google-button.png");
+    }
+
+    li .twitter {
+        background: url("@{imagepathlink}twitter-button.png");
+    }
+}

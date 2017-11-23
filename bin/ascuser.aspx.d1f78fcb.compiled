@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/Community/Modules/Wiki/WikiUC/fckeditor/editor/plugins/ascuser/ascuser.aspx" hash="d9c701c66" filehash="ffffe6270ddb2aa2" flags="110000" assembly="Products.Community.Modules.Wiki.WikiUC.fckeditor.editor.plugins.ascuser" type="ASP.products_community_modules_wiki_wikiuc_fckeditor_editor_plugins_ascuser_ascuser_aspx">
+  <filedeps>
+    <filedep name="/Products/Community/Modules/Wiki/WikiUC/fckeditor/editor/plugins/ascuser/ascuser.aspx" />
+  </filedeps>
+</preserve>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/Community/Modules/Wiki/WikiUC/ViewFile.ascx" hash="d9c701c66" filehash="3a66a3210ccc" flags="110000" assembly="Products.Community.Modules.Wiki.WikiUC" type="ASP.products_community_modules_wiki_wikiuc_viewfile_ascx">
+  <filedeps>
+    <filedep name="/Products/Community/Modules/Wiki/WikiUC/ViewFile.ascx" />
+  </filedeps>
+</preserve>

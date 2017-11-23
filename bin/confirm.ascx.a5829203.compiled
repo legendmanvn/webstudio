@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/Common/Confirm/Confirm.ascx" hash="d9c701c66" filehash="ffffd64e38e45e86" flags="110000" assembly="UserControls.Common.Confirm" type="ASP.usercontrols_common_confirm_confirm_ascx">
+  <filedeps>
+    <filedep name="/UserControls/Common/Confirm/Confirm.ascx" />
+  </filedeps>
+</preserve>

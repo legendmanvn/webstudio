@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/Community/Modules/Wiki/WikiUC/EditPage.ascx" hash="d9c701c66" filehash="f0c043b42302ca5f" flags="110000" assembly="Products.Community.Modules.Wiki.WikiUC" type="ASP.products_community_modules_wiki_wikiuc_editpage_ascx">
+  <filedeps>
+    <filedep name="/Products/Community/Modules/Wiki/WikiUC/EditPage.ascx" />
+    <filedep name="/Products/Community/Modules/Wiki/WikiUC/MiniToolbar.ascx" />
+  </filedeps>
+</preserve>

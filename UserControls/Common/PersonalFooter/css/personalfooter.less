@@ -1,0 +1,107 @@
+/*
+ *
+ * (c) Copyright Ascensio System Limited 2010-2016
+ *
+ * This program is freeware. You can redistribute it and/or modify it under the terms of the GNU 
+ * General Public License (GPL) version 3 as published by the Free Software Foundation (https://www.gnu.org/copyleft/gpl.html). 
+ * In accordance with Section 7(a) of the GNU GPL its Section 15 shall be amended to the effect that 
+ * Ascensio System SIA expressly excludes the warranty of non-infringement of any third-party rights.
+ *
+ * THIS PROGRAM IS DISTRIBUTED WITHOUT ANY WARRANTY; WITHOUT EVEN THE IMPLIED WARRANTY OF MERCHANTABILITY OR
+ * FITNESS FOR A PARTICULAR PURPOSE. For more details, see GNU GPL at https://www.gnu.org/copyleft/gpl.html
+ *
+ * You can contact Ascensio System SIA by email at sales@onlyoffice.com
+ *
+ * The interactive user interfaces in modified source and object code versions of ONLYOFFICE must display 
+ * Appropriate Legal Notices, as required under Section 5 of the GNU GPL version 3.
+ *
+ * Pursuant to Section 7 § 3(b) of the GNU GPL you must retain the original ONLYOFFICE logo which contains 
+ * relevant author attributions when distributing the software. If the display of the logo in its graphic 
+ * form is not reasonably feasible for technical reasons, you must include the words "Powered by ONLYOFFICE" 
+ * in every copy of the program you distribute. 
+ * Pursuant to Section 7 § 3(e) we decline to grant you any rights under trademark law for use of our trademarks.
+ *
+*/
+
+
+.personal-footer {
+    background-color: #2a2a2a;
+    font-size: 12px;
+    color: #fff;
+    height: 72px;
+    position:absolute;
+    bottom:0;
+    width: 100%;
+    a {
+        color: #fff;
+        text-decoration: none;
+    } 
+}
+.personal-footer_w {
+    width: 960px;
+    margin: 0 auto;
+    padding: 27px 10px 0;
+}
+.personal-footer_rights {
+    float: right;
+}
+
+.personal-languages {
+    float: left;
+    margin-right: 40px;
+}
+.personal-languages_select {
+    background: url("images/flags.png") no-repeat left 2px transparent;
+    cursor: pointer;
+    line-height: 16px;
+    padding-left: 25px;
+    position: relative;
+    span {
+      border-bottom: 1px dotted #666;
+   }
+    &:after {
+        content: "";
+        border-top: 4px solid #666;
+        border-left: 4px solid transparent;
+        border-right: 4px solid transparent;
+        position: absolute;
+        top: 8px;
+        right: -15px;
+    }
+}
+.personal-languages_select.cs-CZ, .personal-languages_list li.cs-CZ a{background-position: left 1px;}
+.personal-languages_select.de-DE, .personal-languages_list li.de-DE a{background-position: left -16px;}
+.personal-languages_select.el-GR, .personal-languages_list li.el-GR a{background-position: left -31px;}
+.personal-languages_select.en-GB, .personal-languages_list li.en-GB a{background-position: left -63px;}
+.personal-languages_select.en-US, .personal-languages_list li.en-US a{background-position: left -80px;}
+.personal-languages_select.es-ES, .personal-languages_list li.es-ES a{background-position: left -95px;}
+.personal-languages_select.fi-FI, .personal-languages_list li.fi-FI a{background-position: left -110px;}
+.personal-languages_select.fr-FR, .personal-languages_list li.fr-FR a{background-position: left -128px;}
+.personal-languages_select.it-IT, .personal-languages_list li.it-IT a{background-position: left -142px;}
+.personal-languages_select.lv-LV, .personal-languages_list li.lv-LV a{background-position: left -159px;}
+.personal-languages_select.pl-PL, .personal-languages_list li.pl-PL a{background-position: left -175px;}
+.personal-languages_select.pt-BR, .personal-languages_list li.pt-BR a{background-position: left -191px;}
+.personal-languages_select.pt-PT, .personal-languages_list li.pt-PT a{background-position: left -287px;}
+.personal-languages_select.ru-RU, .personal-languages_list li.ru-RU a{background-position: left -207px;}
+.personal-languages_select.tr-TR, .personal-languages_list li.tr-TR a{background-position: left -222px;}
+.personal-languages_select.uk-UA, .personal-languages_list li.uk-UA a{background-position: left -239px;}
+.personal-languages_select.vi-VN, .personal-languages_list li.vi-VN a{background-position: left -254px;}
+.personal-languages_select.zh-CN, .personal-languages_list li.zh-CN a{background-position: left -270px;}
+.personal-languages_select.az-Latn-AZ, .personal-languages_list li.az-Latn-AZ a{background-position: left -302px;}
+.personal-languages_select.ko-KR, .personal-languages_list li.ko-KR a{background-position: left -318px;}
+.personal-languages_select.ja-JP, .personal-languages_list li.ja-JP a{background-position: left -334px;}
+
+.personal-footer-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    li {
+        float: left;
+        margin: 0 25px 0 0;
+
+        a:hover {
+            text-decoration: underline;
+        }
+    }
+}

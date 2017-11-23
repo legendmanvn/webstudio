@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/Management/GreetingSettings/GreetingLogoSettings.ascx" hash="d9c701c66" filehash="362e9aa2407b" flags="110000" assembly="UserControls.Management.GreetingSettings" type="ASP.usercontrols_management_greetingsettings_greetinglogosettings_ascx">
+  <filedeps>
+    <filedep name="/UserControls/Management/GreetingSettings/GreetingLogoSettings.ascx" />
+  </filedeps>
+</preserve>

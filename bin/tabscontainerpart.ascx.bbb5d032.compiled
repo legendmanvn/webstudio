@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/addons/talk/UserControls/TabsContainerPart.ascx" hash="d9c701c66" filehash="ffffeff4f5cb8df4" flags="110000" assembly="addons.talk.UserControls" type="ASP.addons_talk_usercontrols_tabscontainerpart_ascx">
+  <filedeps>
+    <filedep name="/addons/talk/UserControls/TabsContainerPart.ascx" />
+  </filedeps>
+</preserve>

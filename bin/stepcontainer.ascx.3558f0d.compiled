@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/FirstTime/StepContainer.ascx" hash="d9c701c66" filehash="21a53c89781b" flags="110000" assembly="UserControls.FirstTime" type="ASP.usercontrols_firsttime_stepcontainer_ascx">
+  <filedeps>
+    <filedep name="/UserControls/FirstTime/StepContainer.ascx" />
+  </filedeps>
+</preserve>

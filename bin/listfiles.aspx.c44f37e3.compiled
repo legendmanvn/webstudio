@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/Community/Modules/Wiki/ListFiles.aspx" hash="d9c701c66" filehash="7e874e7f308ae92b" flags="110000" assembly="Products.Community.Modules.Wiki" type="ASP.products_community_modules_wiki_listfiles_aspx">
+  <filedeps>
+    <filedep name="/Masters/BaseTemplate.master" />
+    <filedep name="/Masters/BodyScripts.ascx" />
+    <filedep name="/Masters/CommonBodyScripts.ascx" />
+    <filedep name="/Masters/CommonStyles.ascx" />
+    <filedep name="/Masters/HeadScripts.ascx" />
+    <filedep name="/Masters/HeadStyles.ascx" />
+    <filedep name="/Masters/ThemeStyles.ascx" />
+    <filedep name="/Products/Community/Master/Community.Master" />
+    <filedep name="/Products/Community/Modules/Wiki/ListFiles.aspx" />
+    <filedep name="/Products/Community/Modules/Wiki/Wiki.Master" />
+  </filedeps>
+</preserve>

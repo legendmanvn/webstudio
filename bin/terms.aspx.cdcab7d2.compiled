@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Terms.aspx" hash="d9c701c66" filehash="110fc4009b4d" flags="110000" assembly="Root" type="ASP.terms_aspx">
+  <filedeps>
+    <filedep name="/Terms.aspx" />
+  </filedeps>
+</preserve>

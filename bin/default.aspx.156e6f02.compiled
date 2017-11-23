@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/addons/mail/Default.aspx" hash="d9c701c66" filehash="795de31da40dc69f" flags="110000" assembly="addons.mail" type="ASP.addons_mail_default_aspx">
+  <filedeps>
+    <filedep name="/addons/mail/Default.aspx" />
+    <filedep name="/Masters/BaseTemplate.master" />
+    <filedep name="/Masters/BodyScripts.ascx" />
+    <filedep name="/Masters/CommonBodyScripts.ascx" />
+    <filedep name="/Masters/CommonStyles.ascx" />
+    <filedep name="/Masters/HeadScripts.ascx" />
+    <filedep name="/Masters/HeadStyles.ascx" />
+    <filedep name="/Masters/ThemeStyles.ascx" />
+  </filedeps>
+</preserve>

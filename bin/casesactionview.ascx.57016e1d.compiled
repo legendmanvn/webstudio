@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/CRM/Controls/Cases/CasesActionView.ascx" hash="d9c701c66" filehash="ffffcbfe2c0aca8a" flags="110000" assembly="Products.CRM.Controls.Cases" type="ASP.products_crm_controls_cases_casesactionview_ascx">
+  <filedeps>
+    <filedep name="/Products/CRM/Controls/Cases/CasesActionView.ascx" />
+  </filedeps>
+</preserve>

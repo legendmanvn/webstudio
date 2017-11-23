@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/People/Help.aspx" hash="d9c701c66" filehash="e8f5a10c467e0186" flags="110000" assembly="Products.People" type="ASP.products_people_help_aspx">
+  <filedeps>
+    <filedep name="/Masters/BaseTemplate.master" />
+    <filedep name="/Masters/BodyScripts.ascx" />
+    <filedep name="/Masters/CommonBodyScripts.ascx" />
+    <filedep name="/Masters/CommonStyles.ascx" />
+    <filedep name="/Masters/HeadScripts.ascx" />
+    <filedep name="/Masters/HeadStyles.ascx" />
+    <filedep name="/Masters/ThemeStyles.ascx" />
+    <filedep name="/Products/People/Help.aspx" />
+    <filedep name="/Products/People/Masters/PeopleBaseTemplate.Master" />
+  </filedeps>
+</preserve>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/Common/Search/SearchResults.ascx" hash="d9c701c66" filehash="2ba04f69be0c" flags="110000" assembly="UserControls.Common.Search" type="ASP.usercontrols_common_search_searchresults_ascx">
+  <filedeps>
+    <filedep name="/UserControls/Common/Search/SearchResults.ascx" />
+  </filedeps>
+</preserve>

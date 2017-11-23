@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/addons/mail/Controls/BlankModal/BlankModal.ascx" hash="d9c701c66" filehash="ffffc830c12eff6f" flags="110000" assembly="addons.mail.Controls.BlankModal" type="ASP.addons_mail_controls_blankmodal_blankmodal_ascx">
+  <filedeps>
+    <filedep name="/addons/mail/Controls/BlankModal/BlankModal.ascx" />
+  </filedeps>
+</preserve>

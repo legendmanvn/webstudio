@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/Common/ChooseTimePeriod/ChooseTimePeriod.ascx" hash="d9c701c66" filehash="fffffc69254b2f82" flags="110000" assembly="UserControls.Common.ChooseTimePeriod" type="ASP.usercontrols_common_choosetimeperiod_choosetimeperiod_ascx">
+  <filedeps>
+    <filedep name="/UserControls/Common/ChooseTimePeriod/ChooseTimePeriod.ascx" />
+  </filedeps>
+</preserve>

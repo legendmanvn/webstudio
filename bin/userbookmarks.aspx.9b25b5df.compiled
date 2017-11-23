@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/Community/Modules/Bookmarking/UserBookmarks.aspx" hash="d9c701c66" filehash="fb6d0d6c502f4e06" flags="110000" assembly="Products.Community.Modules.Bookmarking" type="ASP.products_community_modules_bookmarking_userbookmarks_aspx">
+  <filedeps>
+    <filedep name="/Masters/BaseTemplate.master" />
+    <filedep name="/Masters/BodyScripts.ascx" />
+    <filedep name="/Masters/CommonBodyScripts.ascx" />
+    <filedep name="/Masters/CommonStyles.ascx" />
+    <filedep name="/Masters/HeadScripts.ascx" />
+    <filedep name="/Masters/HeadStyles.ascx" />
+    <filedep name="/Masters/ThemeStyles.ascx" />
+    <filedep name="/Products/Community/Master/Community.Master" />
+    <filedep name="/Products/Community/Modules/Bookmarking/UserBookmarks.aspx" />
+  </filedeps>
+</preserve>

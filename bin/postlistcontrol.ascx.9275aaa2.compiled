@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/Community/Modules/Forum/UserControls/PostListControl.ascx" hash="d9c701c66" filehash="ffffbe5c43f015b2" flags="110000" assembly="Products.Community.Modules.Forum.UserControls" type="ASP.products_community_modules_forum_usercontrols_postlistcontrol_ascx">
+  <filedeps>
+    <filedep name="/Products/Community/Modules/Forum/UserControls/PostListControl.ascx" />
+  </filedeps>
+</preserve>

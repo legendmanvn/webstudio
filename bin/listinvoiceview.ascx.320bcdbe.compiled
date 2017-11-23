@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/CRM/Controls/Invoices/ListInvoiceView.ascx" hash="d9c701c66" filehash="6f8709d3b32" flags="110000" assembly="Products.CRM.Controls.Invoices" type="ASP.products_crm_controls_invoices_listinvoiceview_ascx">
+  <filedeps>
+    <filedep name="/Products/CRM/Controls/Invoices/ListInvoiceView.ascx" />
+  </filedeps>
+</preserve>

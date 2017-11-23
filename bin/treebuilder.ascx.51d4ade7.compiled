@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/Files/Controls/Tree/TreeBuilder.ascx" hash="d9c701c66" filehash="1cc1706a7672" flags="110000" assembly="Products.Files.Controls.Tree" type="ASP.products_files_controls_tree_treebuilder_ascx">
+  <filedeps>
+    <filedep name="/Products/Files/Controls/Tree/TreeBuilder.ascx" />
+  </filedeps>
+</preserve>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/CRM/Controls/Settings/CurrencySettingsView.ascx" hash="d9c701c66" filehash="ffffd4933c70d903" flags="110000" assembly="Products.CRM.Controls.Settings" type="ASP.products_crm_controls_settings_currencysettingsview_ascx">
+  <filedeps>
+    <filedep name="/Products/CRM/Controls/Settings/CurrencySettingsView.ascx" />
+  </filedeps>
+</preserve>

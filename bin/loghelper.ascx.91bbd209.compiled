@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/Management/Monitoring/LogHelper.ascx" hash="d9c701c66" filehash="30516b939ffe" flags="110000" assembly="UserControls.Management.Monitoring" type="ASP.usercontrols_management_monitoring_loghelper_ascx">
+  <filedeps>
+    <filedep name="/UserControls/Management/Monitoring/LogHelper.ascx" />
+  </filedeps>
+</preserve>

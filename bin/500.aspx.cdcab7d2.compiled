@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/500.aspx" hash="d9c701c66" filehash="27752ff39624" flags="110000" assembly="Root" type="ASP._500_aspx">
+  <filedeps>
+    <filedep name="/500.aspx" />
+  </filedeps>
+</preserve>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/Community/Master/Styles.ascx" hash="d9c701c66" filehash="25f3b8be2415" flags="110000" assembly="Products.Community.Master" type="ASP.products_community_master_styles_ascx">
+  <filedeps>
+    <filedep name="/Products/Community/Master/Styles.ascx" />
+  </filedeps>
+</preserve>

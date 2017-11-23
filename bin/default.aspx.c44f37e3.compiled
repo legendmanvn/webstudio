@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/Community/Modules/Wiki/Default.aspx" hash="d9c701c66" filehash="55a2c212f1a98997" flags="110000" assembly="Products.Community.Modules.Wiki" type="ASP.products_community_modules_wiki_default_aspx">
+  <filedeps>
+    <filedep name="/Masters/BaseTemplate.master" />
+    <filedep name="/Masters/BodyScripts.ascx" />
+    <filedep name="/Masters/CommonBodyScripts.ascx" />
+    <filedep name="/Masters/CommonStyles.ascx" />
+    <filedep name="/Masters/HeadScripts.ascx" />
+    <filedep name="/Masters/HeadStyles.ascx" />
+    <filedep name="/Masters/ThemeStyles.ascx" />
+    <filedep name="/Products/Community/Master/Community.Master" />
+    <filedep name="/Products/Community/Modules/Wiki/Default.aspx" />
+    <filedep name="/Products/Community/Modules/Wiki/Wiki.Master" />
+    <filedep name="/Products/Community/Modules/Wiki/WikiUC/EditFile.ascx" />
+    <filedep name="/Products/Community/Modules/Wiki/WikiUC/EditPage.ascx" />
+    <filedep name="/Products/Community/Modules/Wiki/WikiUC/MiniToolbar.ascx" />
+    <filedep name="/Products/Community/Modules/Wiki/WikiUC/ViewFile.ascx" />
+    <filedep name="/Products/Community/Modules/Wiki/WikiUC/ViewPage.ascx" />
+  </filedeps>
+</preserve>

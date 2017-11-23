@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/Community/Modules/Blogs/Views/ViewBlogView.ascx" hash="d9c701c66" filehash="fffffcfa029f9d5f" flags="110000" assembly="Products.Community.Modules.Blogs.Views" type="ASP.products_community_modules_blogs_views_viewblogview_ascx">
+  <filedeps>
+    <filedep name="/Products/Community/Modules/Blogs/Views/ViewBlogView.ascx" />
+  </filedeps>
+</preserve>

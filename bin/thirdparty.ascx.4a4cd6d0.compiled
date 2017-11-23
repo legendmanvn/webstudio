@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/Files/Controls/ThirdParty/ThirdParty.ascx" hash="d9c701c66" filehash="ffffc33b49c3df27" flags="110000" assembly="Products.Files.Controls.ThirdParty" type="ASP.products_files_controls_thirdparty_thirdparty_ascx">
+  <filedeps>
+    <filedep name="/Products/Files/Controls/ThirdParty/ThirdParty.ascx" />
+  </filedeps>
+</preserve>

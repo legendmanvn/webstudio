@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/Management/CookieSettings/CookieSettings.ascx" hash="d9c701c66" filehash="fffff02a71066cec" flags="110000" assembly="UserControls.Management.CookieSettings" type="ASP.usercontrols_management_cookiesettings_cookiesettings_ascx">
+  <filedeps>
+    <filedep name="/UserControls/Management/CookieSettings/CookieSettings.ascx" />
+  </filedeps>
+</preserve>

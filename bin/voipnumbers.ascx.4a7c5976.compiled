@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/CRM/Controls/Settings/VoipSettings/VoipNumbers.ascx" hash="d9c701c66" filehash="ffffbf535e260cef" flags="110000" assembly="Products.CRM.Controls.Settings.VoipSettings" type="ASP.products_crm_controls_settings_voipsettings_voipnumbers_ascx">
+  <filedeps>
+    <filedep name="/Products/CRM/Controls/Settings/VoipSettings/VoipNumbers.ascx" />
+  </filedeps>
+</preserve>

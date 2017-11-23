@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/Community/Modules/Bookmarking/UserControls/BookmarkInfoUserControl.ascx" hash="d9c701c66" filehash="ffffbdafac7e18d8" flags="110000" assembly="Products.Community.Modules.Bookmarking.UserControls" type="ASP.products_community_modules_bookmarking_usercontrols_bookmarkinfousercontrol_ascx">
+  <filedeps>
+    <filedep name="/Products/Community/Modules/Bookmarking/UserControls/BookmarkInfoUserControl.ascx" />
+  </filedeps>
+</preserve>

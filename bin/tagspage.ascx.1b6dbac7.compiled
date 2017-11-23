@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/addons/mail/Controls/TagsPage/TagsPage.ascx" hash="d9c701c66" filehash="ffffcbee1cf4545b" flags="110000" assembly="addons.mail.Controls.TagsPage" type="ASP.addons_mail_controls_tagspage_tagspage_ascx">
+  <filedeps>
+    <filedep name="/addons/mail/Controls/TagsPage/TagsPage.ascx" />
+  </filedeps>
+</preserve>

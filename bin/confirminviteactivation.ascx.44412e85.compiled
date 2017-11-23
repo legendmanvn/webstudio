@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/Management/ConfirmInviteActivation/ConfirmInviteActivation.ascx" hash="d9c701c66" filehash="ffffec3f997ee347" flags="110000" assembly="UserControls.Management.ConfirmInviteActivation" type="ASP.usercontrols_management_confirminviteactivation_confirminviteactivation_ascx">
+  <filedeps>
+    <filedep name="/UserControls/Management/ConfirmInviteActivation/ConfirmInviteActivation.ascx" />
+  </filedeps>
+</preserve>

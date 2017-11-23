@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/Common/Authorize/Authorize.ascx" hash="d9c701c66" filehash="ffffe1cb162c5c29" flags="110000" assembly="UserControls.Common.Authorize" type="ASP.usercontrols_common_authorize_authorize_ascx">
+  <filedeps>
+    <filedep name="/UserControls/Common/Authorize/Authorize.ascx" />
+  </filedeps>
+</preserve>

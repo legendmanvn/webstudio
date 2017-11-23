@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/addons/talk/UserControls/RoomsContainer.ascx" hash="d9c701c66" filehash="2f9cb1aa3039" flags="110000" assembly="addons.talk.UserControls" type="ASP.addons_talk_usercontrols_roomscontainer_ascx">
+  <filedeps>
+    <filedep name="/addons/talk/UserControls/RoomsContainer.ascx" />
+  </filedeps>
+</preserve>

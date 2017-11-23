@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/Management/NamingPeopleSettings/NamingPeopleSettings.ascx" hash="d9c701c66" filehash="12606b852a4e" flags="110000" assembly="UserControls.Management.NamingPeopleSettings" type="ASP.usercontrols_management_namingpeoplesettings_namingpeoplesettings_ascx">
+  <filedeps>
+    <filedep name="/UserControls/Management/NamingPeopleSettings/NamingPeopleSettings.ascx" />
+  </filedeps>
+</preserve>

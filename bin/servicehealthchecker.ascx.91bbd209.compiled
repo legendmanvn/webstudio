@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/Management/Monitoring/ServiceHealthChecker.ascx" hash="d9c701c66" filehash="ffffd5a66f64525f" flags="110000" assembly="UserControls.Management.Monitoring" type="ASP.usercontrols_management_monitoring_servicehealthchecker_ascx">
+  <filedeps>
+    <filedep name="/UserControls/Management/Monitoring/ServiceHealthChecker.ascx" />
+  </filedeps>
+</preserve>

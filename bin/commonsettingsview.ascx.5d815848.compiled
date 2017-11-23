@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/CRM/Controls/Settings/CommonSettingsView.ascx" hash="d9c701c66" filehash="d1eeb36c4de" flags="110000" assembly="Products.CRM.Controls.Settings" type="ASP.products_crm_controls_settings_commonsettingsview_ascx">
+  <filedeps>
+    <filedep name="/Products/CRM/Controls/Settings/CommonSettingsView.ascx" />
+  </filedeps>
+</preserve>

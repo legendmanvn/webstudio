@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/addons/mail/Controls/CommonSettingsPage/CommonSettingsPage.ascx" hash="d9c701c66" filehash="ffffbbf6c657a00e" flags="110000" assembly="addons.mail.Controls.CommonSettingsPage" type="ASP.addons_mail_controls_commonsettingspage_commonsettingspage_ascx">
+  <filedeps>
+    <filedep name="/addons/mail/Controls/CommonSettingsPage/CommonSettingsPage.ascx" />
+  </filedeps>
+</preserve>

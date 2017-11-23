@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Products/CRM/HttpHandlers/webtoleadfromhandler.ashx" hash="ffffffff95c1868b" filehash="ffffe7b063863359" flags="130000" assembly="ASC.Web.CRM" type="ASC.Web.CRM.HttpHandlers.WebToLeadFromHandler">
+  <filedeps>
+    <filedep name="/Products/CRM/HttpHandlers/webtoleadfromhandler.ashx" />
+  </filedeps>
+</preserve>

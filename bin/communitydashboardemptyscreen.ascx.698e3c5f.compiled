@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/EmptyScreens/CommunityDashboardEmptyScreen.ascx" hash="d9c701c66" filehash="44244a5b1583" flags="110000" assembly="UserControls.EmptyScreens" type="ASP.usercontrols_emptyscreens_communitydashboardemptyscreen_ascx">
+  <filedeps>
+    <filedep name="/UserControls/EmptyScreens/CommunityDashboardEmptyScreen.ascx" />
+  </filedeps>
+</preserve>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/Common/ActivateEmailPanel.ascx" hash="d9c701c66" filehash="ffffca7e521f4d45" flags="110000" assembly="UserControls.Common" type="ASP.usercontrols_common_activateemailpanel_ascx">
+  <filedeps>
+    <filedep name="/UserControls/Common/ActivateEmailPanel.ascx" />
+  </filedeps>
+</preserve>

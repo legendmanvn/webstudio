@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/Management/TransferPortal/TransferPortal.ascx" hash="d9c701c66" filehash="ffffd209cb89804f" flags="110000" assembly="UserControls.Management.TransferPortal" type="ASP.usercontrols_management_transferportal_transferportal_ascx">
+  <filedeps>
+    <filedep name="/UserControls/Management/TransferPortal/TransferPortal.ascx" />
+  </filedeps>
+</preserve>

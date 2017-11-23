@@ -1,0 +1,180 @@
+/*
+ *
+ * (c) Copyright Ascensio System Limited 2010-2016
+ *
+ * This program is freeware. You can redistribute it and/or modify it under the terms of the GNU 
+ * General Public License (GPL) version 3 as published by the Free Software Foundation (https://www.gnu.org/copyleft/gpl.html). 
+ * In accordance with Section 7(a) of the GNU GPL its Section 15 shall be amended to the effect that 
+ * Ascensio System SIA expressly excludes the warranty of non-infringement of any third-party rights.
+ *
+ * THIS PROGRAM IS DISTRIBUTED WITHOUT ANY WARRANTY; WITHOUT EVEN THE IMPLIED WARRANTY OF MERCHANTABILITY OR
+ * FITNESS FOR A PARTICULAR PURPOSE. For more details, see GNU GPL at https://www.gnu.org/copyleft/gpl.html
+ *
+ * You can contact Ascensio System SIA by email at sales@onlyoffice.com
+ *
+ * The interactive user interfaces in modified source and object code versions of ONLYOFFICE must display 
+ * Appropriate Legal Notices, as required under Section 5 of the GNU GPL version 3.
+ *
+ * Pursuant to Section 7 § 3(b) of the GNU GPL you must retain the original ONLYOFFICE logo which contains 
+ * relevant author attributions when distributing the software. If the display of the logo in its graphic 
+ * form is not reasonably feasible for technical reasons, you must include the words "Powered by ONLYOFFICE" 
+ * in every copy of the program you distribute. 
+ * Pursuant to Section 7 § 3(e) we decline to grant you any rights under trademark law for use of our trademarks.
+ *
+*/
+
+
+.jstree {
+    background-color: transparent;
+    overflow: auto;
+    padding: 5px 20px 5px 5px;
+}
+.jstree ul,
+.jstree li {
+    display: block;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.jstree li {
+    line-height: 18px;
+    margin-left: 18px;
+    min-height: 18px;
+    white-space: nowrap;
+}
+.jstree > ul > li {
+    margin-left: 0;
+}
+.jstree > ul > li > a {
+    font-size: 14px;
+}
+.jstree-inprojects > ul > li > a {
+    font-size: 12px;
+}
+.jstree-open > ul {
+    display: block;
+}
+.jstree-closed > ul {
+    display: none;
+}
+.jstree-icon {
+    background: url("images/tree_action.png") 0 1px no-repeat transparent;
+    cursor: pointer;
+    display: inline-block;
+    height: 20px;
+    margin: 0 -2px 0 0;
+    padding: 0;
+    text-decoration: none;
+    vertical-align: middle;
+    width: 12px;
+}
+
+.jstree-icon.jstree-expander {
+    background-image: none;
+    position: relative;
+}
+
+.jstree-icon.jstree-expander:after {
+    border-bottom: 4px solid transparent;
+    border-left: 4px solid #696969;
+    border-top: 4px solid transparent;
+    content: "";
+    height: 0;
+    left: 3px;
+    margin-top: -6px;
+    position: absolute;
+    top: 50%;
+    width: 0;
+}
+.jstree-empty > .jstree-icon.jstree-expander {
+    visibility: hidden;
+}
+.jstree-open > .jstree-icon.jstree-expander {
+}
+.jstree-open > .jstree-icon.jstree-expander:after {
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+    border-top: 4px solid #696969;
+    content: "";
+    height: 0;
+    left: 0px;
+    margin-top: -4px;
+    position: absolute;
+    top: 50%;
+    width: 0;
+}
+
+.jstree-closed > .jstree-icon.jstree-expander.jstree-load-node {
+    background-image: url("images/loader_12.gif");
+    background-position: center;
+}
+.jstree-closed > .jstree-icon.jstree-expander.jstree-load-node:after {
+    border: 0 none;
+}
+
+
+
+.jstree a {
+    color: #333;
+    cursor: pointer;
+    display: inline-block;
+    height: 15px;
+    line-height: 16px;
+    margin: 1px 0;
+    outline: none;
+    padding: 6px 3px 6px 2px;
+    text-decoration: none;
+    white-space: nowrap;
+}
+.jstree a:hover {
+    text-decoration: underline;
+}
+.jstree a.selected,
+li.jstree-closed.parent-selected > a {
+    background-color: #e9e9e9;
+}
+
+a .jstree-icon {
+    background-position: -40px 0;
+    margin-right: 3px;
+    height: 16px;
+    width: 16px;
+}
+a .menu-item-icon.myFiles {
+    background-position: 0 -28px;
+}
+a .menu-item-icon.shareformeFiles {
+    background-position: 0 -704px;
+}
+a .menu-item-icon.corporateFiles {
+    background-position: 0 -366px;
+}
+a .menu-item-icon.projectFiles {
+    background-position: 0 -54px;
+}
+a .menu-item-icon.trashFiles {
+    background-position: 0 -574px;
+}
+a .jstree-icon.myFiles {
+    background-position: -60px 0;
+}
+a .jstree-icon.shareformeFiles {
+    background-position: -80px 0;
+}
+a .jstree-icon.corporateFiles {
+    background-position: -100px 0;
+}
+a .jstree-icon.projectFiles {
+    background-position: -120px 0;
+}
+a .jstree-icon.trashFiles {
+    background-position: -140px 0;
+}
+a.jstree-close-project:hover {
+    background-color: #FFF;
+    border: 1px solid #FFF;
+}
+
+.jstree .is-new {
+    display: none;
+}

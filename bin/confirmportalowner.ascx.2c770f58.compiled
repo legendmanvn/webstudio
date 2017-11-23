@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/Management/AdminSettings/ConfirmPortalOwner.ascx" hash="d9c701c66" filehash="ffffcd72ac3fede9" flags="110000" assembly="UserControls.Management.AdminSettings" type="ASP.usercontrols_management_adminsettings_confirmportalowner_ascx">
+  <filedeps>
+    <filedep name="/UserControls/Management/AdminSettings/ConfirmPortalOwner.ascx" />
+  </filedeps>
+</preserve>

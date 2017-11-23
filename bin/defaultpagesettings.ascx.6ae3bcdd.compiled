@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/Management/DefaultPageSettings/DefaultPageSettings.ascx" hash="d9c701c66" filehash="338816111172" flags="110000" assembly="UserControls.Management.DefaultPageSettings" type="ASP.usercontrols_management_defaultpagesettings_defaultpagesettings_ascx">
+  <filedeps>
+    <filedep name="/UserControls/Management/DefaultPageSettings/DefaultPageSettings.ascx" />
+  </filedeps>
+</preserve>

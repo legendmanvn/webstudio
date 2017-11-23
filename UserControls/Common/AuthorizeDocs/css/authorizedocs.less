@@ -1,0 +1,849 @@
+/*
+ *
+ * (c) Copyright Ascensio System Limited 2010-2016
+ *
+ * This program is freeware. You can redistribute it and/or modify it under the terms of the GNU 
+ * General Public License (GPL) version 3 as published by the Free Software Foundation (https://www.gnu.org/copyleft/gpl.html). 
+ * In accordance with Section 7(a) of the GNU GPL its Section 15 shall be amended to the effect that 
+ * Ascensio System SIA expressly excludes the warranty of non-infringement of any third-party rights.
+ *
+ * THIS PROGRAM IS DISTRIBUTED WITHOUT ANY WARRANTY; WITHOUT EVEN THE IMPLIED WARRANTY OF MERCHANTABILITY OR
+ * FITNESS FOR A PARTICULAR PURPOSE. For more details, see GNU GPL at https://www.gnu.org/copyleft/gpl.html
+ *
+ * You can contact Ascensio System SIA by email at sales@onlyoffice.com
+ *
+ * The interactive user interfaces in modified source and object code versions of ONLYOFFICE must display 
+ * Appropriate Legal Notices, as required under Section 5 of the GNU GPL version 3.
+ *
+ * Pursuant to Section 7 § 3(b) of the GNU GPL you must retain the original ONLYOFFICE logo which contains 
+ * relevant author attributions when distributing the software. If the display of the logo in its graphic 
+ * form is not reasonably feasible for technical reasons, you must include the words "Powered by ONLYOFFICE" 
+ * in every copy of the program you distribute. 
+ * Pursuant to Section 7 § 3(e) we decline to grant you any rights under trademark law for use of our trademarks.
+ *
+*/
+
+
+body {
+    background-color: transparent; 
+}
+.mainPageLayout,
+.mainPageTable .mainPageContent {
+    padding: 0;
+}
+.mainPageTable {
+    background: url("images/1px_image_background.png") repeat-x right bottom #b3d7f2;
+}
+.mainPageContent {
+    min-width: 1px;
+    min-height: 378px;
+    background: url("images/image_background.png") left bottom no-repeat transparent;
+}
+
+body.media-width-0-1450 {
+    .mainPageContent {
+        background-image:none;
+    }
+    .auth-form-with_sign-up {
+        display: none;
+    }
+
+    .ab-testing .auth-form-with_sign-up {
+        display: block;
+    }
+}
+
+.try-welcome-top {
+    background-color: #fff;
+    height: 75px;
+    margin: 0 auto;
+    width: 960px;
+    padding: 0 10px;
+}
+
+.try-welcome-top.studio-top-panel .studio-top-logo {
+   margin-top: 0;
+}
+
+#personalLogin {
+    float: right;
+    margin-top: 40px;
+
+    a {
+        background-color: #fff;
+        color: #2d86ab;
+        font-weight: bold;
+        text-transform: uppercase;
+        text-decoration: none;
+        padding: 12px 25px;
+        border: 1px solid #3db2e2;
+        .borderRadius();
+
+        &:hover {
+            border-color: #50c1ef;
+            text-decoration: none;
+        }
+
+        &:active {
+            border-color: #2b9dcc;
+        }
+    }
+}
+.auth-form-head_w {
+    width: 100%;
+    height: 426px;
+    background-color: #fff;    
+}
+.auth-form-head {
+    text-align: left;
+    margin: 0 auto;
+    max-width: 960px;
+    padding: 20px 10px 0;
+    position: relative;
+}
+.auth-form-with {
+    text-align: left;
+    margin: 0 auto;
+    min-height: 300px;
+    max-width: 960px;
+    padding: 0 10px 72px;
+    position: relative;
+}
+
+.auth-form-header {
+    color: #3db2e2;
+    font-size: 64px;
+    font-weight: 300;
+    line-height: 72px;
+    margin: 0 0 35px;
+    text-transform: uppercase;
+}
+.auth-form-with_lines {
+    height:25px;
+    width: 60px;
+    border-left:1px solid #86d6f6;
+    border-bottom: 1px solid #86d6f6;
+}
+
+/*---Try Block--*/
+
+.auth-form-with_try_desc {
+    color: #5c5d5c;
+    font-size: 16px;
+    margin: 0 0 15px 0;
+}
+
+.auth-form-with_try_formats {
+    color: #5c5d5c;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0 0 42px 0;
+}
+
+#chromebookText {
+    display: none;
+}
+.chromebook {
+    padding-left: 28px;
+    background: url(images/logo_chrombook.png) no-repeat 0 -2px transparent;
+}
+.auth-form-with_hint {
+    color: #2d86ab;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.auth-form-with_hint-add {
+    color: #969696;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.auth-form-with_try_formats-btn {
+    float: right;
+    position: relative;
+    margin-top: 32px;
+}
+.auth-form-with_try_formats-btn_hint {
+    position: absolute;
+    top: -30px;
+    left: -70px;
+
+    .auth-form-with_hint {
+        margin: 0 0 5px -35px;
+    }
+}
+.auth-form-with-btns {
+    display: inline-block;
+    margin-bottom: 36px;
+
+    .try-button {
+        &,
+        &:hover,
+        &:visited {
+            float: left;
+            margin-right: 20px;
+        }
+
+            &:last-child {
+                margin-right: 0;
+            }
+    }
+}
+.auth-form-with_sign-up {
+    position: absolute;
+    left: -61px;
+    margin-top: -25px;
+
+    .auth-form-with_hint,
+    .auth-form-with_hint-add {
+        margin-left: -110px;
+        width: 150px;
+        text-align: right;
+    }
+
+    .auth-form-with_hint-add {
+        margin-bottom: 5px;
+    }
+}
+input.auth-form-with_field {
+    padding: 18px 20px;
+    border: none;
+    .borderRadius();
+
+    &:hover,
+    &:active,
+    &:focus {
+        border: none;
+    }
+
+    &:focus {
+        box-shadow: inset 0px 0px 2px #d0d0d0;
+        background-color: #f5f5f5;
+    }
+
+    &.error {
+        color: #c44747;
+    }
+}
+
+.auth-form-with_form_w {
+    margin-bottom: 72px;
+}
+.auth-form-with_form {
+    background-color: #3dbee2;
+    padding: 16px 20px;
+    position: relative;
+    .borderRadius();
+
+    .auth-form-with_field,
+    .auth-form-with_form_btn,
+    .auth-form-with_form_or {
+        float: left;
+        margin-right: 20px;
+    }
+
+    .auth-form-with_field {
+        width: 280px;
+    }
+
+    .auth-form-with_form_or {
+        margin-top: 20px;
+    }
+}
+
+.auth-form-with_form_error {
+    color: #c44747;
+    font-size: 14px;
+    position: absolute;
+    left: 0;
+    top: -24px;
+}
+
+.auth-form-with_form_btn {
+    background-color: #76cef2;
+    border: none;
+    border-bottom: 1px solid #187bb9;
+    color: #fff;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 19px 20px 18px;
+    text-transform: uppercase;
+    text-decoration: none;
+    .borderRadius();
+
+    &:hover {
+        background-color: #82d6f8;
+        color: #fff;
+        font-size: 14px;
+        font-weight: bold;
+    }
+
+    &:active {
+        background-color: #6bc4e8;
+        color: #fff;
+        font-size: 14px;
+        font-weight: bold;
+    }
+}
+
+.auth-form-with_form_or {
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+.auth-form-with_btns_social {
+    display: inline-block;
+}
+.auth-docs_btns_social {
+    position: relative;
+
+    .login-with-label {
+        display: none;
+    }
+
+    .social-login .account-links {
+        height: 54px;
+
+        ul {
+            width: 186px;
+            height: 53px;
+            li {
+                width: 53px;
+                height: 53px;
+                margin-right: 8px;
+
+                a {
+                    background: url("images/sprite_acc.png") no-repeat transparent;
+                    height: 53px;
+                    margin: 0;
+                    width: 53px;
+
+                    &.google {
+                        background-position: 0 0;
+
+                        &:hover {
+                            background-position: -61px 0;
+                        }
+                    }
+
+                    &.facebook {
+                        background-position: 0 -61px;
+
+                        &:hover {
+                            background-position: -61px -61px;
+                        }
+                    }
+
+                    &.linkedin {
+                        background-position: 0 -122px;
+
+                        &:hover {
+                            background-position: -61px -122px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .errorBox {
+        position: absolute;
+        top: -54px;
+    }
+}
+
+/*----Review Block-----*/
+
+.auth-form-with_review {
+    height: 293px;
+    padding: 43px 0;
+}
+
+.auth-form-with_review_h {
+    color: #5c5d5c;
+    float: left;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 3px 15px 0 0;
+}
+
+#cromeStoreRating {
+    background: url("images/starsraring.png");
+    display: inline-block;
+    height: 30px;
+    width: 140px;
+}
+#reviewsContainer {
+    margin-bottom: 18px;
+}
+.auth-form-with_review_i {
+    background-color: #f1f1f1;
+    color: #3b3b3b;
+    font-size: 12px;
+    padding: 12px 13px;
+    height: 70px;
+    margin-top: 20px;
+}
+
+.auth-form-with_review_author {
+    font-weight: bold;
+}
+.auth-form-with_review_photo {
+    background: url("images/default.png") no-repeat 0 0 transparent;
+    float: left;
+    height: 35px;
+    padding: 7px;
+    width: 35px;
+}
+.auth-form-with_review_info,
+.auth-form-with_review_text {
+    margin: 5px 66px;
+}
+.auth-form-with_review_rating {
+    margin-left: 10px;
+}
+.auth-form-with_review_star {
+    background: url(images/small_stars.png) 0 0 no-repeat transparent;
+    display: inline-block;
+    height: 11px;
+    width: 11px;
+}
+
+.auth-form-with_read-other {
+    background-color: #fff;
+    color: #fff;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: bold;
+    background-color: rgba(255,255,255,0.4);
+    padding: 13px 25px;
+    text-decoration: none;
+    .borderRadius();
+
+    &:hover,
+    &:active {
+         color: #fff;
+         font-weight: bold;
+         text-decoration: none;
+    }
+}
+
+/*----------------Style Placeholder------------------*/
+::-webkit-input-placeholder { /* WebKit browsers */
+    color:   #969696;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color:   #969696;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color:   #969696;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+:-ms-input-placeholder { /* Internet Explorer 10+ */
+    color:   #969696;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+/*------Popup-------*/
+.default-personal-popup {
+    display: none;
+    background-color: #fff;
+    background-color: rgba(255,255,255,0.95);
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    z-index: 500;
+}
+.default-personal-popup_cnt {
+    color: #373737;
+    position: relative;
+    margin:0 auto;
+    text-align: center;
+    width: 960px;
+    padding: 20px 0;
+    top: 20%;
+}
+
+.default-personal-popup_closer {
+    cursor: pointer;
+    font-size: 38px;
+    font-weight: 300;
+    line-height: 20px;
+    position: absolute;
+    top: 0;
+    right: 8px;
+}
+
+.default-personal-popup_text {
+    font-size: 21px;
+    margin-bottom: 40px;
+}
+.default-personal-popup_strong-text {
+    font-size: 34px;
+    font-weight: 500;
+}
+
+.default-personal-popup_h {
+    font-size: 36px;
+    font-weight: normal;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+.default-personal-popup_line {
+    background-color: #86d6f6;
+    display: inline-block;
+    margin: 10px 0 18px;
+    height: 72px;
+    width: 1px;    
+}
+
+.default-personal-popup_label {
+    color: #2d86ab;
+    font-weight: bold;
+    display: inline-block;
+    width: 150px;
+    text-transform: uppercase;
+    text-align: right;
+}
+
+.default-personal-popup_field {
+    border: 1px solid #86d6f6;
+    width: 190px;
+    padding: 8px 15px;
+    .borderRadius();
+
+    &:focus {
+        border-color: #2d86ab;
+    }
+
+    &.error {
+        border-color: #c44747;
+    }
+}
+.default-personal-popup_form-i {
+    .default-personal-popup_field {
+        margin: 0 16px 36px;
+    }
+}
+.default-personal-popup_check {
+    display: inline-block;
+    width: 150px;
+    text-align: left;
+
+    input {
+        float: left;
+        margin-right: 8px;
+    }
+}
+
+.default-personal-popup_btn {
+    background-color: #89ac35;
+    background-image: none;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 11px 36px;
+    margin: 0;
+    text-align: center;
+    text-transform: uppercase;
+
+    .borderRadius();
+
+    &:hover {
+        background-color: #95b840;
+    }
+
+    &:active {
+        background-color: #7c9e2a;
+    }
+}
+.default-personal-popup_error {
+    color: #c44747;
+    font-size: 12px;
+    position: absolute;
+    left: 20px;
+    top: 42px;
+}
+/*-------Login Popup-----*/
+.login_accept-btn-cnt {
+    width: 220px;
+    text-align: left;
+    margin: 0 auto 23px;
+}
+.login_forget-psw {
+    cursor: pointer;
+    float: right;
+    font-size: 12px;
+    margin-top: 8px;
+    text-decoration: underline;
+}
+.login_not-registered-cnt {
+    margin-bottom: 120px;
+}
+.login_field-cnt {
+    display: inline-block;
+    position: relative;
+}
+.login_signup-btn {
+    color: #2d86ab;
+    cursor: pointer;
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+.auth-docs_social_text {
+    font-size: 21px;
+    margin-bottom: 20px;
+}
+
+/*---------Popup----------*/
+
+.popup_social-nets{
+    text-align: center;
+
+    .social-login {
+        display: inline-block;
+    }
+}
+
+.popupContainerClass {
+    .containerHeaderBlock {
+        background-color: transparent;
+        padding: 50px 63px 15px;
+
+        .popupCancel .cancelButton {
+            font-size: 40px;
+            font-weight: 300;
+            position: absolute;
+            top: 18px;
+            right: 10px;
+        }
+    }
+
+    .containerBodyBlock {
+        padding: 5px 63px 52px;
+    }
+
+    #studio_emailPwdReminder {
+        .default-personal-popup_field;
+        margin-top: 30px;
+    }
+
+    .middle-button-container {
+
+        .button {
+            &.blue {
+                .default-personal-popup_btn;
+                background-image: none;
+            }
+
+            &.gray {
+                display: none;
+            }
+        }
+    }
+}
+/*----------Carousel--------------*/
+.carousel-wrapper {
+   max-height: 228px;
+   margin-bottom: 25px;
+   overflow: hidden; 
+   position:relative;
+}
+.carousel-items {
+   height: 10000px; 
+   position: relative; 
+}
+/*---------------------*/
+.borderRadius (@value: 3px) {
+    border-radius: @value;
+    -moz-border-radius: @value;
+    -webkit-border-radius: @value;
+}
+
+
+/*******************************************************************************
+    Other style
+*******************************************************************************/
+.ab-testing {
+
+    .mainPageTable {
+        background-image: none;
+        background-color: #8db7db;
+    }
+
+    .mainPageContent {
+        background-image: none;
+    }
+
+    .cloud-image {
+        background: url(images/formats.png) no-repeat 0 0 transparent;
+        position: absolute;
+        width: 471px;
+        height: 380px;
+        top: -76px;
+        right: 0;
+        z-index: 0;
+    }
+
+    #personalLogin a {
+        border-color: #4d94d0;
+        color: #4d94d0;
+        position: relative;
+        z-index: 50;
+    }
+
+    .auth-form-head_w {
+        border-bottom: 1px solid #90a6b8;
+        height: 500px;
+
+        &.de .auth-form-header {
+            font-size: 58px;
+        }
+    }
+
+    .auth-form-head {
+        padding-top: 43px;
+    }
+
+    .auth-form-header {
+        color: #4d94d0;
+        font-size: 62px;
+        position: relative;
+        z-index: 5;
+        margin-bottom: 22px;
+        width: 575px;
+    }
+
+    .auth-form-with_try {
+        width: 550px;
+    }
+
+    .auth-form-with_try_desc {
+        margin-bottom: 6px;
+    }
+
+    .auth-form-with_sign-up {
+        left: inherit;
+        right: 55px;
+        z-index: 100;
+    }
+
+    .auth-form-with_try_formats {
+        margin-bottom: 75px;
+    }
+
+    .auth-form-with_form_w {
+        background-color: #fff;
+        display: inline-block;
+        padding-right: 30px;
+        position: relative;
+        z-index: 200;
+    }
+
+    .auth-form-with_form {
+        background-color: #dee6ec;
+        box-shadow: inset 0px 0px 4px #d6d6d6;
+        display: inline-block;
+    }
+
+    .auth-form-with_field {
+        box-shadow: inset 0px 1px 2px #C0C0C0;
+    }
+
+    .auth-form-with_form_btn {
+        background-color: #4ec795;
+        border-color: #5fa58d;
+        font-size: 12px;
+
+        &:hover {
+            background-color: #59d09e;
+            font-size: 12px;
+        }
+
+        &:active {
+            font-size: 12px;
+        }
+    }
+
+    .auth-form-with_form_or {
+        color: #8796a0;
+        font-size: 12px;
+    }
+
+    .social-login .account-links ul {
+        width: 189px;
+    }
+
+    .auth-docs_btns_social .social-login .account-links ul li a {
+        height: 55px;
+        width: 55px;
+        background-image: url(images/sprite_acc_ab.png);
+    }
+
+    .auth-form-with_hint {
+        color: #6b6b6b;
+    }
+
+    .auth-form-with_hint-add {
+        text-transform: lowercase;
+        font-style: italic;
+        font-weight: 600;
+    }
+
+    .auth-form-with_hint,
+    .auth-form-with_hint-add {
+        margin-left: 105px;
+        margin-right: -80px;
+        text-align: center;
+    }
+
+    .auth-form-with_lines {
+        width: 180px;
+        border-top: none;
+        border-left: none;
+        border-bottom: 1px dotted #6b6b6b;
+        border-right: 1px dotted #6b6b6b;
+    }
+    /*----------------Style Placeholder------------------*/
+    ::-webkit-input-placeholder { /* WebKit browsers */
+        color: #8796a0;
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+
+    :-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+        color: #8796a0;
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+
+    ::-moz-placeholder { /* Mozilla Firefox 19+ */
+        color: #8796a0;
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+
+    :-ms-input-placeholder { /* Internet Explorer 10+ */
+        color: #8796a0;
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+}

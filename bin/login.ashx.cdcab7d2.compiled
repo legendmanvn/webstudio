@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/login.ashx" hash="ffffffff95c1868b" filehash="ffffc95f84799814" flags="130000" assembly="ASC.FederatedLogin" type="ASC.FederatedLogin.Login">
+  <filedeps>
+    <filedep name="/login.ashx" />
+  </filedeps>
+</preserve>

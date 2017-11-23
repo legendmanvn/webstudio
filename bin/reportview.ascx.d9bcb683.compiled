@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/Projects/Controls/Reports/ReportView.ascx" hash="d9c701c66" filehash="25bb1738d9bd" flags="110000" assembly="Products.Projects.Controls.Reports" type="ASP.products_projects_controls_reports_reportview_ascx">
+  <filedeps>
+    <filedep name="/Products/Projects/Controls/Reports/ReportView.ascx" />
+  </filedeps>
+</preserve>

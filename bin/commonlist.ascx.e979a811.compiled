@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/Projects/Controls/Common/CommonList.ascx" hash="d9c701c66" filehash="4277c858bb1b" flags="110000" assembly="Products.Projects.Controls.Common" type="ASP.products_projects_controls_common_commonlist_ascx">
+  <filedeps>
+    <filedep name="/Products/Projects/Controls/Common/CommonList.ascx" />
+  </filedeps>
+</preserve>

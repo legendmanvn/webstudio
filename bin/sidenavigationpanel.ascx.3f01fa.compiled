@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/People/UserControls/SideNavigationPanel.ascx" hash="d9c701c66" filehash="ffffe33dcb089a84" flags="110000" assembly="Products.People.UserControls" type="ASP.products_people_usercontrols_sidenavigationpanel_ascx">
+  <filedeps>
+    <filedep name="/Products/People/UserControls/SideNavigationPanel.ascx" />
+  </filedeps>
+</preserve>

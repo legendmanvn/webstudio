@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/Community/Modules/Forum/UserControls/TopicListControl.ascx" hash="d9c701c66" filehash="25d5d1be8abc" flags="110000" assembly="Products.Community.Modules.Forum.UserControls" type="ASP.products_community_modules_forum_usercontrols_topiclistcontrol_ascx">
+  <filedeps>
+    <filedep name="/Products/Community/Modules/Forum/UserControls/TopicListControl.ascx" />
+  </filedeps>
+</preserve>

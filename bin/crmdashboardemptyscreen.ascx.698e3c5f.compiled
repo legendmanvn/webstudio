@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/EmptyScreens/CRMDashboardEmptyScreen.ascx" hash="d9c701c66" filehash="ffffda1ffbb06f2f" flags="110000" assembly="UserControls.EmptyScreens" type="ASP.usercontrols_emptyscreens_crmdashboardemptyscreen_ascx">
+  <filedeps>
+    <filedep name="/UserControls/EmptyScreens/CRMDashboardEmptyScreen.ascx" />
+  </filedeps>
+</preserve>

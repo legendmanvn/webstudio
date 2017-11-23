@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/addons/mail/HttpHandlers/EditDocument.ashx" hash="ffffffff95c1868b" filehash="ffffd54a0d40d762" flags="130000" assembly="ASC.Web.Mail" type="ASC.Web.Mail.HttpHandlers.EditDocumentHandler">
+  <filedeps>
+    <filedep name="/addons/mail/HttpHandlers/EditDocument.ashx" />
+  </filedeps>
+</preserve>

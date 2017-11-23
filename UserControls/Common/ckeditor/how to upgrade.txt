@@ -1,0 +1,24 @@
+Upgrading CKEditor
+
+https://docs.ckeditor.com/#!/guide/dev_upgrade
+
+Download new version, copy and replace all files exept
+
+custom files:
+1) ckeditor-connector.js
+2) config.js
+3) contents.css
+
+custom plugins:
+1) plugins\smiley
+
+custom skins:
+1) skins\teamlab
+
+additional plugins:
+1) codemirror
+2) fakeobjects
+3) filetype
+4) oembed
+5) teamlabcut
+6) teamlabquote

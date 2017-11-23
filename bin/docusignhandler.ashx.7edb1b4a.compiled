@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Products/Files/HttpHandlers/docusignhandler.ashx" hash="ffffffff95c1868b" filehash="ffffbfcf2f6fd16c" flags="130000" assembly="ASC.Web.Files" type="ASC.Web.Files.HttpHandlers.DocuSignHandler">
+  <filedeps>
+    <filedep name="/Products/Files/HttpHandlers/docusignhandler.ashx" />
+  </filedeps>
+</preserve>

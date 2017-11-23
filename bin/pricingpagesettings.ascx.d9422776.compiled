@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/Management/PricingPageSettings/PricingPageSettings.ascx" hash="d9c701c66" filehash="ffffdc21d99558f3" flags="110000" assembly="UserControls.Management.PricingPageSettings" type="ASP.usercontrols_management_pricingpagesettings_pricingpagesettings_ascx">
+  <filedeps>
+    <filedep name="/UserControls/Management/PricingPageSettings/PricingPageSettings.ascx" />
+  </filedeps>
+</preserve>

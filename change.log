@@ -1,0 +1,16 @@
+﻿# Build version: {BuildVersion}
+# Build date: {BuildDate}
+# Current User: {User}
+# User Agent: {UserAgent}
+# Current URL: {Url}
+# Rewriten URL: {RewritenUrl}
+
+# DocService api: {DocServiceApi}
+# DocService command: {DocServiceCommand}
+# DocService converter: {DocServiceConverter}
+# DocService storage: {DocServiceStorage}
+
+# Revision First: {RevisionFirst}
+# Revision Last: {RevisionLast}
+**********************************************************************************************************************************
+

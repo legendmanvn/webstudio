@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/Management/PromoCode/PromoCode.ascx" hash="d9c701c66" filehash="3e9db59db2c0" flags="110000" assembly="UserControls.Management.PromoCode" type="ASP.usercontrols_management_promocode_promocode_ascx">
+  <filedeps>
+    <filedep name="/UserControls/Management/PromoCode/PromoCode.ascx" />
+  </filedeps>
+</preserve>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Products/Files/HttpHandlers/thirdpartyapphandler.ashx" hash="ffffffff95c1868b" filehash="ffffed16a3397a71" flags="130000" assembly="ASC.Web.Files" type="ASC.Web.Files.HttpHandlers.ThirdPartyAppHandler">
+  <filedeps>
+    <filedep name="/Products/Files/HttpHandlers/thirdpartyapphandler.ashx" />
+  </filedeps>
+</preserve>

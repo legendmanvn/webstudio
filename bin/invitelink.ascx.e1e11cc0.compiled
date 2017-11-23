@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/Common/InviteLink/InviteLink.ascx" hash="d9c701c66" filehash="ffffe8b1f27361d8" flags="110000" assembly="UserControls.Common.InviteLink" type="ASP.usercontrols_common_invitelink_invitelink_ascx">
+  <filedeps>
+    <filedep name="/UserControls/Common/InviteLink/InviteLink.ascx" />
+  </filedeps>
+</preserve>

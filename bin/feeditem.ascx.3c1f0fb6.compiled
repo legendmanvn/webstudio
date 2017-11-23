@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/Community/Modules/News/Controls/FeedItem.ascx" hash="d9c701c66" filehash="10f3e41ffffd" flags="110000" assembly="Products.Community.Modules.News.Controls" type="ASP.products_community_modules_news_controls_feeditem_ascx">
+  <filedeps>
+    <filedep name="/Products/Community/Modules/News/Controls/FeedItem.ascx" />
+  </filedeps>
+</preserve>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/Management/ColorThemes/ColorThemes.ascx" hash="d9c701c66" filehash="2a5fb95b47f1" flags="110000" assembly="UserControls.Management.ColorThemes" type="ASP.usercontrols_management_colorthemes_colorthemes_ascx">
+  <filedeps>
+    <filedep name="/UserControls/Management/ColorThemes/ColorThemes.ascx" />
+  </filedeps>
+</preserve>

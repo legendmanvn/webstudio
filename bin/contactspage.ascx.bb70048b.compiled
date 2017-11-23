@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/addons/mail/Controls/ContactsPage/ContactsPage.ascx" hash="d9c701c66" filehash="ffffeecce02b4185" flags="110000" assembly="addons.mail.Controls.ContactsPage" type="ASP.addons_mail_controls_contactspage_contactspage_ascx">
+  <filedeps>
+    <filedep name="/addons/mail/Controls/ContactsPage/ContactsPage.ascx" />
+  </filedeps>
+</preserve>

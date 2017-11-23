@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/Common/Support/Support.ascx" hash="d9c701c66" filehash="edef42cdc52" flags="110000" assembly="UserControls.Common.Support" type="ASP.usercontrols_common_support_support_ascx">
+  <filedeps>
+    <filedep name="/UserControls/Common/Support/Support.ascx" />
+  </filedeps>
+</preserve>

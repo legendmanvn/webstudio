@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/CRM/Deals.aspx" hash="d9c701c66" filehash="639834f41834ddd6" flags="110000" assembly="Products.CRM" type="ASP.products_crm_deals_aspx">
+  <filedeps>
+    <filedep name="/Masters/BaseTemplate.master" />
+    <filedep name="/Masters/BodyScripts.ascx" />
+    <filedep name="/Masters/CommonBodyScripts.ascx" />
+    <filedep name="/Masters/CommonStyles.ascx" />
+    <filedep name="/Masters/HeadScripts.ascx" />
+    <filedep name="/Masters/HeadStyles.ascx" />
+    <filedep name="/Masters/ThemeStyles.ascx" />
+    <filedep name="/Products/CRM/Deals.aspx" />
+    <filedep name="/Products/CRM/Masters/BasicTemplate.Master" />
+  </filedeps>
+</preserve>

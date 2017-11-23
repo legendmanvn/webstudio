@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/addons/calendar/UserControls/SidePanel.ascx" hash="d9c701c66" filehash="ffffd462b378b03f" flags="110000" assembly="addons.calendar.UserControls" type="ASP.addons_calendar_usercontrols_sidepanel_ascx">
+  <filedeps>
+    <filedep name="/addons/calendar/UserControls/SidePanel.ascx" />
+  </filedeps>
+</preserve>

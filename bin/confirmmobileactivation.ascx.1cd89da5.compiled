@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/Management/SmsControls/ConfirmMobileActivation.ascx" hash="d9c701c66" filehash="b6802a0fff6" flags="110000" assembly="UserControls.Management.SmsControls" type="ASP.usercontrols_management_smscontrols_confirmmobileactivation_ascx">
+  <filedeps>
+    <filedep name="/UserControls/Management/SmsControls/ConfirmMobileActivation.ascx" />
+  </filedeps>
+</preserve>

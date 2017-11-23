@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/Management/MailDomainSettings/MailDomainSettings.ascx" hash="d9c701c66" filehash="fffffb4a6fa22e17" flags="110000" assembly="UserControls.Management.MailDomainSettings" type="ASP.usercontrols_management_maildomainsettings_maildomainsettings_ascx">
+  <filedeps>
+    <filedep name="/UserControls/Management/MailDomainSettings/MailDomainSettings.ascx" />
+  </filedeps>
+</preserve>

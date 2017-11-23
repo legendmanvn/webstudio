@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/addons/mail/OAuth.aspx" hash="d9c701c66" filehash="182116cc2135" flags="110000" assembly="addons.mail" type="ASP.addons_mail_oauth_aspx">
+  <filedeps>
+    <filedep name="/addons/mail/OAuth.aspx" />
+  </filedeps>
+</preserve>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Products/Community/Modules/Wiki/WikiUC/fckeditor/editor/plugins/FileUploader.aspx" hash="d9c701c66" filehash="ffffdc0dc0795cf8" flags="110000" assembly="Products.Community.Modules.Wiki.WikiUC.fckeditor.editor.plugins" type="ASP.products_community_modules_wiki_wikiuc_fckeditor_editor_plugins_fileuploader_aspx">
+  <filedeps>
+    <filedep name="/Products/Community/Modules/Wiki/WikiUC/fckeditor/editor/plugins/FileUploader.aspx" />
+  </filedeps>
+</preserve>

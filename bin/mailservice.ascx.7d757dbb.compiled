@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/UserControls/Management/MailService/MailService.ascx" hash="d9c701c66" filehash="ffffdabe70ca408f" flags="110000" assembly="UserControls.Management.MailService" type="ASP.usercontrols_management_mailservice_mailservice_ascx">
+  <filedeps>
+    <filedep name="/UserControls/Management/MailService/MailService.ascx" />
+  </filedeps>
+</preserve>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/addons/talk/http-poll/httppoll.ashx" hash="ffffffff95c1868b" filehash="45279045c05" flags="130000" assembly="ASC.Web.Talk" type="ASC.Web.Talk.HttpHandlers.HttpPollHandler">
+  <filedeps>
+    <filedep name="/addons/talk/http-poll/httppoll.ashx" />
+  </filedeps>
+</preserve>
